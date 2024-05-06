@@ -29,7 +29,7 @@ My journey in life has led me to develop a keen interest and passion for cyberse
 
 ## Certifications
 <div>
-
+Google Cybersecurity Professional Certificate - View and verify my completion via <a href="https://www.credly.com/badges/da182fb1-7ee5-4397-a3d0-342540de0df4/linked_in?t=sb4ifj">Credly</a>
 </div>
 
 ## Projects
